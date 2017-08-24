@@ -1,0 +1,15 @@
+{
+  "name": "qwin_first_crwaler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "qwin",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.6.0"
+  }
+}
