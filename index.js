@@ -2,7 +2,7 @@ var cheerio = require('cheerio');
 var superagent = require('superagent');
 
 const config = {
-  id: 12199843
+  id: 12199843,
 };
 
 ((conf) => {
